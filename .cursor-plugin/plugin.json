@@ -1,0 +1,23 @@
+{
+  "name": "scenelith",
+  "version": "1.1.1",
+  "description": "Create images and videos, work with saved references, and retrieve original media from your Scenelith workspace.",
+  "author": {
+    "name": "Scenelith",
+    "email": "support@scenelith.com"
+  },
+  "homepage": "https://scenelith.com",
+  "license": "Apache-2.0",
+  "keywords": [
+    "images",
+    "video",
+    "creative",
+    "characters",
+    "media",
+    "scenelith"
+  ],
+  "logo": "assets/logo.svg",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json",
+  "repository": "https://github.com/Scenelith/scenelith-plugin"
+}

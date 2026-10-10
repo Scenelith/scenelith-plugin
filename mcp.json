@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "scenelith": {
+      "url": "https://scenelith.com/api/mcp"
+    }
+  }
+}
